@@ -1,0 +1,5 @@
+{
+  "name": "German Aviation Quiz",
+  "description": "An interactive learning application to practice for the German aviation theory test. It uses questions and answers from a provided PDF to create a multiple-choice quiz experience with instant feedback.",
+  "requestFramePermissions": []
+}

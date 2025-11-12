@@ -1,0 +1,3603 @@
+
+[
+  {
+    "id": 1,
+    "code": "AGK-1",
+    "question": "Welche drei Hebel im Cockpit eines Segelflugzeuges sind immer in den Farben rot, blau und grün gekennzeichnet? Die Hebel für die Bedienung von...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Fahrwerk, Bremsklappen und Trimmung"
+      },
+      {
+        "letter": "B",
+        "text": "Bremsklappen, Haubenverriegelung, Fahrwerk"
+      },
+      {
+        "letter": "C",
+        "text": "Haubennotabwurf, Bremsklappen, Trimmung"
+      },
+      {
+        "letter": "D",
+        "text": "Bremsklappen, Schleppkupplung, Trimmung"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 2,
+    "code": "AGK-2",
+    "question": "Die \"Flügeldicke\" ist die Distanz zwischen Flügelunterseite und Flügeloberseite an der...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "dünnsten Stelle der Tragfläche."
+      },
+      {
+        "letter": "B",
+        "text": "äußersten Stelle der Tragfläche."
+      },
+      {
+        "letter": "C",
+        "text": "dicksten Stelle der Tragfläche."
+      },
+      {
+        "letter": "D",
+        "text": "innersten Stelle der Tragfläche."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 3,
+    "code": "AGK-4",
+    "question": "Woraus besteht grundsätzlich die Rumpfbaugruppe bei Holz- und Metallflugzeugen?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Verkleidung, Holmen und Formteilen"
+      },
+      {
+        "letter": "B",
+        "text": "Rippen, Spanten und Verkleidung"
+      },
+      {
+        "letter": "C",
+        "text": "Spanten und Gurten"
+      },
+      {
+        "letter": "D",
+        "text": "Längsträgern, Rippen und Holmen"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4,
+    "code": "AGK-9",
+    "question": "Das Lastvielfache \"n\" beschreibt das Verhältnis von...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vortriebs- und Widerstandskraft."
+      },
+      {
+        "letter": "B",
+        "text": "Gewichts- und Vortriebskraft."
+      },
+      {
+        "letter": "C",
+        "text": "Auftriebs- und Gewichtskraft."
+      },
+      {
+        "letter": "D",
+        "text": "Widerstands- und Auftriebskraft."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 5,
+    "code": "AGK-14",
+    "question": "Um wie viele Achsen bewegt sich ein Luftfahrzeug?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "3"
+      },
+      {
+        "letter": "B",
+        "text": "5"
+      },
+      {
+        "letter": "C",
+        "text": "4"
+      },
+      {
+        "letter": "D",
+        "text": "2"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 6,
+    "code": "AGK-15",
+    "question": "Durch welches Ruder wird eine Bewegung um die Längsachse primär eingeleitet?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Das Seitenruder"
+      },
+      {
+        "letter": "B",
+        "text": "Das Höhenruder"
+      },
+      {
+        "letter": "C",
+        "text": "Das Trimmruder"
+      },
+      {
+        "letter": "D",
+        "text": "Das Querruder"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 7,
+    "code": "AGK-16",
+    "question": "Wie werden die Ruder eines einmotorigen Kolbenflugzeuges unter zwei Tonnen, eines Motorseglers oder Segelflugzeugs üblicherweise kontrolliert und angesteuert?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Durch elektrische Impulse"
+      },
+      {
+        "letter": "B",
+        "text": "Durch Hydraulikpumpen oder Elektromotoren"
+      },
+      {
+        "letter": "C",
+        "text": "Durch Gestänge und Steuerseile"
+      },
+      {
+        "letter": "D",
+        "text": "Durch Lichtimpulse"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 8,
+    "code": "AGK-26",
+    "question": "Der Begriff \"QFE\" ist definiert als...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "der barometrische Druck an einer festgelegten Position, meist an der Landebahnschwelle."
+      },
+      {
+        "letter": "B",
+        "text": "der anhand der tatsächlichen Atmosphärenbedingungen auf Meereshöhe reduzierte Luftdruck."
+      },
+      {
+        "letter": "C",
+        "text": "die Höhe über der Druckfläche 1013,25 hPa."
+      },
+      {
+        "letter": "D",
+        "text": "der anhand der ICAO Standardatmosphäre (ISA) auf Meereshöhe reduzierte Luftdruck."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 9,
+    "code": "AGK-27",
+    "question": "Welche Funktion hat die Druckskala im Höhenmesser?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Der Bezug der Höhenmesseranzeige auf eine bestimmte Druckfläche"
+      },
+      {
+        "letter": "B",
+        "text": "Die Korrektur von Systemfehlern oder Hysteresefehlern des Höhenmessers"
+      },
+      {
+        "letter": "C",
+        "text": "Der Bezug der Höhenmesseranzeige auf eine bestimmte Temperatur"
+      },
+      {
+        "letter": "D",
+        "text": "Die Korrektur des Höhenmessers bei vom Standard abweichender Temperatur"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 10,
+    "code": "AGK-33",
+    "question": "Während eines Fluges in einer Luftmasse, deren Temperatur ISA entspricht, ist die angezeigte Höhe bei korrekt eingestelltem QNH...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "niedriger als die wahre Höhe."
+      },
+      {
+        "letter": "B",
+        "text": "gleich der Standardhöhe."
+      },
+      {
+        "letter": "C",
+        "text": "gleich der wahren Höhe."
+      },
+      {
+        "letter": "D",
+        "text": "höher als die wahre Höhe."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 11,
+    "code": "AGK-36",
+    "question": "Nach welchem Prinzip funktioniert ein Variometer?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vergleich des Gesamtdrucks mit dem statischen Druck mit Hilfe stark verengter Druckausgleichsöffnungen (Kapillare)"
+      },
+      {
+        "letter": "B",
+        "text": "Anzeige der Änderungsrate des statischen Drucks mit Hilfe stark verengter Druckausgleichsöffnungen (Kapillare)"
+      },
+      {
+        "letter": "C",
+        "text": "Anzeige der Änderungsrate des statischen Drucks durch Vergleich des Staudrucks mit dem statischen Druck"
+      },
+      {
+        "letter": "D",
+        "text": "Anzeige des statischen Drucks mit Hilfe stark verengter Druckausgleichsöffnungen (Kapillare)"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 12,
+    "code": "AGK-39",
+    "question": "Nach welchem Prinzip funktioniert ein Fahrtmesser?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vergleich des statischen Luftdrucks mit dem Umgebungsdruck"
+      },
+      {
+        "letter": "B",
+        "text": "Direkte Anzeige des Gesamtdrucks (Staudruck und statischer Druck)"
+      },
+      {
+        "letter": "C",
+        "text": "Vergleich des Gesamtdrucks mit dem statischen Luftdruck"
+      },
+      {
+        "letter": "D",
+        "text": "Messung der Änderungsrate des umgebenden statischen Drucks"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 13,
+    "code": "AGK-41",
+    "question": "Was wird zur Bestimmung der Geschwindigkeit am Fahrtmesser (IAS) benötigt?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Die Differenz aus Standarddruck und Gesamtdruck"
+      },
+      {
+        "letter": "B",
+        "text": "Die Differenz aus Gesamtdruck und dynamischem Druck"
+      },
+      {
+        "letter": "C",
+        "text": "Die Differenz aus dynamischem Druck und statischem Druck"
+      },
+      {
+        "letter": "D",
+        "text": "Die Differenz aus Gesamtdruck und statischem Druck"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 14,
+    "code": "AGK-46",
+    "question": "Ein Luftfahrzeug auf der Nordhalbkugel kurvt auf dem kürzesten Weg von Steuerkurs 270° auf Steuerkurs 360°. Bei welcher Anzeige am Magnetkompass sollte die Kurve beendet werden?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "360°"
+      },
+      {
+        "letter": "B",
+        "text": "330°"
+      },
+      {
+        "letter": "C",
+        "text": "030°"
+      },
+      {
+        "letter": "D",
+        "text": "300°"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 15,
+    "code": "AGK-57",
+    "question": "In der Nebenskala eines Höhenmessers wird der am Flugplatz herrschende Druck eingestellt (QFE). Was zeigt der Höhenmesser während des Fluges an?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Druckhöhe über 1013,25 hPa"
+      },
+      {
+        "letter": "B",
+        "text": "Flugplatzhöhe über MSL"
+      },
+      {
+        "letter": "C",
+        "text": "Die Höhe über MSL"
+      },
+      {
+        "letter": "D",
+        "text": "Höhe über dem Flugplatz"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 16,
+    "code": "AGK-62",
+    "question": "Der Haubenfaden ist in einer Rechtskurve nach links ausgewandert. Durch welche Rudereinwirkung kann der Faden wieder zentriert werden?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Mehr Querruder, mehr Seitenruder in Kurvenrichtung"
+      },
+      {
+        "letter": "B",
+        "text": "Weniger Querruder, weniger Seitenruder in Kurvenrichtung"
+      },
+      {
+        "letter": "C",
+        "text": "Weniger Querruder, mehr Seitenruder in Kurvenrichtung"
+      },
+      {
+        "letter": "D",
+        "text": "Mehr Querruder, weniger Seitenruder in Kurvenrichtung"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 17,
+    "code": "AGK-64",
+    "question": "Welche der genannten Beschädigungen macht ein Luftfahrzeug in jedem Fall luftuntüchtig?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ein Kratzer in der Lackierung"
+      },
+      {
+        "letter": "B",
+        "text": "Beschädigung an den tragenden Teilen"
+      },
+      {
+        "letter": "C",
+        "text": "Ein Riss in der Haube"
+      },
+      {
+        "letter": "D",
+        "text": "Verschmutzte Flügelvorderkante"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 18,
+    "code": "AGK-72",
+    "question": "Welche Bedeutung hat der gelbe Bereich auf dem Fahrtmesser?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Günstiger Geschwindigkeitsbereich für Flugzeugschlepp."
+      },
+      {
+        "letter": "B",
+        "text": "Hier nur bei ruhigem, nicht böigem Wetter fliegen, um Überbeansprúchung zu vermeiden."
+      },
+      {
+        "letter": "C",
+        "text": "In diesem Geschwindigkeitsbereich liegt das beste Gleiten."
+      },
+      {
+        "letter": "D",
+        "text": "Vorsichtiges Betätigen von Klappen oder Bremsen um Überbeanspruchung zu vermeiden."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 19,
+    "code": "ALW-4",
+    "question": "Wo kann die Art der Luftraumbeschränkung innerhalb eines Flugbeschränkungsgebietes nachgelesen werden?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Auf der ICAO-Karte 1:500.000"
+      },
+      {
+        "letter": "B",
+        "text": "In aktuellen NOTAMS"
+      },
+      {
+        "letter": "C",
+        "text": "Im monatlichen AIC"
+      },
+      {
+        "letter": "D",
+        "text": "In der AIP"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 20,
+    "code": "ALW-13",
+    "question": "Was bedeutet die Abkürzung \"TRA\"?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nahverkehrskontrollzone (Terminal Area)"
+      },
+      {
+        "letter": "B",
+        "text": "Temporäre Zone mit Radarführung (Temporary Radar Routing Area)"
+      },
+      {
+        "letter": "C",
+        "text": "Temporäre Luftraumreservierung (Temporary Reserved Airspace)"
+      },
+      {
+        "letter": "D",
+        "text": "Zone mit Transponderpflicht (Transponder Area)"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 21,
+    "code": "ALW-16",
+    "question": "Unter welchen Bedingungen ist ein Flug ein \"Sichtflug\"?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wenn die Flugsicht mehr als 5 km beträgt"
+      },
+      {
+        "letter": "B",
+        "text": "Wenn die Flugsicht mehr als 8 km beträgt"
+      },
+      {
+        "letter": "C",
+        "text": "Wenn der Flug nach Sichtflugregeln durchgeführt wird"
+      },
+      {
+        "letter": "D",
+        "text": "Wenn der Flug in Sichtflugwetterbedingungen stattfindet"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 22,
+    "code": "ALW-27",
+    "question": "Der Begriff \"Hauptwolkenuntergrenze\" ist definiert als...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "die Höhe der Untergrenze der niedrigsten Wolkenschicht über Grund oder Wasser, die mehr als die Hälfte des Himmels bedeckt unterhalb 10.000 ft AGL."
+      },
+      {
+        "letter": "B",
+        "text": "die Höhe der Untergrenze der höchsten Wolkenschicht über MSL, die mehr als die Hälfte des Himmels bedeckt unterhalb 10.000 ft AGL."
+      },
+      {
+        "letter": "C",
+        "text": "die Höhe der Untergrenze der niedrigsten Wolkenschicht über MSL, die mehr als die Hälfte des Himmels bedeckt unterhalb 20.000 ft AGL."
+      },
+      {
+        "letter": "D",
+        "text": "die Höhe der Untergrenze der niedrigsten Wolkenschicht über Grund oder Wasser, die mehr als die Hälfte des Himmels bedeckt unterhalb 20.000 ft AGL."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 23,
+    "code": "ALW-29",
+    "question": "Auf welche Einstellung der Subskala des Höhenmessers werden Flugflächen referenziert?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "QNH."
+      },
+      {
+        "letter": "B",
+        "text": "QFE."
+      },
+      {
+        "letter": "C",
+        "text": "1030,25 hPa."
+      },
+      {
+        "letter": "D",
+        "text": "1013,25 hPa."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 24,
+    "code": "ALW-30",
+    "question": "Welchen Zweck erfüllen die Halbkreisflugregeln?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kollisionsvermeidung durch Verringerung der Wahrscheinlichkeit direkten Gegenverkehrs"
+      },
+      {
+        "letter": "B",
+        "text": "Flugplanbefreiung innerhalb vorgegebener und in der AIP veröffentlichter Zonen"
+      },
+      {
+        "letter": "C",
+        "text": "Steig- und Sinkflugverfahren innerhalb von Warteschleifen gefahrlos zu ermöglichen"
+      },
+      {
+        "letter": "D",
+        "text": "Kollisionsvermeidung durch Unterbrechen des Wendemanövers"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 25,
+    "code": "ALW-34",
+    "question": "Welcher Transpondercode ist bei einem Notfall unaufgefordert zu schalten?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "7700"
+      },
+      {
+        "letter": "B",
+        "text": "7500"
+      },
+      {
+        "letter": "C",
+        "text": "7000"
+      },
+      {
+        "letter": "D",
+        "text": "7600"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 26,
+    "code": "ALW-36",
+    "question": "Welche Dienste führen Flugverkehrskontrolldienst durch?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Flugalarmdienst (ALR). Such- und Rettungsdienst (SAR). Flugplatzkontrolldienst (TWR)."
+      },
+      {
+        "letter": "B",
+        "text": "Fluginformationsdienst (FIS). Flugberatungsdienst (AIS). Fester Flugfernmeldedienst (AFS)."
+      },
+      {
+        "letter": "C",
+        "text": "Flugplatzkontrolldienst (TWR). Anflugkontrolldienst (APP). Bezirkskontrolldienst (ACC)."
+      },
+      {
+        "letter": "D",
+        "text": "Anflugkontrolldienst (APP). Bezirkskontrolldienst (ACC). Fluginformationsdienst (FIS)."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 27,
+    "code": "ALW-45",
+    "question": "Bis wann gilt das dargestellte NOTAM? A1024/13 A) LOWW B) 1305211200 C) 1305211400 E) STOCKERAU VOR STO 113.00 UNSERVICEABLE.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "21.05.2014 13:00 Uhr"
+      },
+      {
+        "letter": "B",
+        "text": "13.10.2013 00:00 Uhr"
+      },
+      {
+        "letter": "C",
+        "text": "21.05.2013 14:00 Uhr"
+      },
+      {
+        "letter": "D",
+        "text": "13.05.2013 12:00 Uhr"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 28,
+    "code": "ALW-46",
+    "question": "Was ist ein \"Pre-Flight Information Bulletin\" (PIB)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Eine Zusammenstellung gültiger AIS Informationen, die nach der Beendigung eines Fluges von betrieblicher Bedeutung sind"
+      },
+      {
+        "letter": "B",
+        "text": "Eine Zusammenstellung gültiger ICAO Informationen, die nach der Beendigung eines Fluges von betrieblicher Bedeutung sind"
+      },
+      {
+        "letter": "C",
+        "text": "Eine Zusammenstellung gültiger AIP Informationen, die vor dem Beginn eines Fluges von betrieblicher Bedeutung sind"
+      },
+      {
+        "letter": "D",
+        "text": "Eine Zusammenstellung gültiger NOTAM Informationen, die vor dem Beginn eines Fluges von betrieblicher Bedeutung sind"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 29,
+    "code": "ALW-47",
+    "question": "Der Begriff \"Flugplatzhöhe\" (aerodrome elevation) ist gemäß ICAO Annex 14 definiert als...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "der Durchschnittswert der Höhe des Rollfeldes."
+      },
+      {
+        "letter": "B",
+        "text": "der höchste Punkt der Landefläche."
+      },
+      {
+        "letter": "C",
+        "text": "der tiefste Punkt der Landefläche."
+      },
+      {
+        "letter": "D",
+        "text": "der höchste Punkt auf dem Vorfeld."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 30,
+    "code": "ALW-50",
+    "question": "Welche Form hat ein Landerichtungsanzeiger?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ein gerader Pfeil"
+      },
+      {
+        "letter": "B",
+        "text": "T"
+      },
+      {
+        "letter": "C",
+        "text": "Ein abgewinkelter Pfeil"
+      },
+      {
+        "letter": "D",
+        "text": "L"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 31,
+    "code": "ALW-52",
+    "question": "Wie werden zwei parallele Pisten bezeichnet?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Die linke Piste bekommt als Anhang zur Bezeichnung ein \"L\", die Nummer der rechten Piste bleibt unverändert"
+      },
+      {
+        "letter": "B",
+        "text": "Die Nummer der linken Piste bleibt unverändert, die Nummer der rechten Piste bekommt wird um \"1\" erhöht"
+      },
+      {
+        "letter": "C",
+        "text": "Die linke Piste bekommt als Anhang zur Bezeichnung ein \"L\", die rechte Piste bekommt als Anhang zur Bezeichnung ein \"R\""
+      },
+      {
+        "letter": "D",
+        "text": "Die linke Piste bekommt als Anhang zur Bezeichnung ein \"-1\", die rechte Piste bekommt als Anhang zur Bezeichnung ein \"-2\""
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 32,
+    "code": "ALW-58",
+    "question": "Am Such- und Rettungsdienst sind beteiligt:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "nur militärische Organisationen."
+      },
+      {
+        "letter": "B",
+        "text": "nur internationale Organisationen."
+      },
+      {
+        "letter": "C",
+        "text": "nur zivile Organisationen."
+      },
+      {
+        "letter": "D",
+        "text": "militärische und zivile Organisationen."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 33,
+    "code": "ALW-60",
+    "question": "Wer ist für die Genehmigung eines Segelfluggeländes und die Kontrolle über die Einhaltung der Auflagen zuständig?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Das Bundesaufsichtsamt für Flugplätze (BAF)"
+      },
+      {
+        "letter": "B",
+        "text": "Das Luftfahrtbundesamt (LBA)"
+      },
+      {
+        "letter": "C",
+        "text": "Die Landesluftfahrtbehörde"
+      },
+      {
+        "letter": "D",
+        "text": "Das Bundesministerium für Verkehr und digitale Infrastruktur (BMVI)"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 34,
+    "code": "ALW-62",
+    "question": "Wie kann der Pilot eines Luftfahrzeuges Hilfsbedürftigen am Boden am Tag bestätigen, Rettungszeichen verstanden zu haben?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Durch mehrmaliges Wiederholen einer parabelförmigen Flugbahn"
+      },
+      {
+        "letter": "B",
+        "text": "Durch wechselseitiges Betätigen des Seitenruders"
+      },
+      {
+        "letter": "C",
+        "text": "Durch wechselseitiges Betätigen der Querruder"
+      },
+      {
+        "letter": "D",
+        "text": "Mehrmaliges Ein- und Ausfahren der Landeklappen"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 35,
+    "code": "ALW-66",
+    "question": "Sie kreisen mit anderen Segelflugzeugen in einem thermischen Aufwind. Wer bestimmt die Drehrichtung?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Derjenige, der als erster in die Thermik eingeflogen ist"
+      },
+      {
+        "letter": "B",
+        "text": "Derjenige, der mit größter Schräglage kreist"
+      },
+      {
+        "letter": "C",
+        "text": "Es wird grundsätzlich nur links gekreist"
+      },
+      {
+        "letter": "D",
+        "text": "Der am höchsten Fliegende"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 36,
+    "code": "COM-10",
+    "question": "Welche Höhe zeigt ein Höhenmesser an, wenn das QNH eingestellt ist?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Die Höhe bezogen auf die Druckfläche 1.013,25 hPa"
+      },
+      {
+        "letter": "B",
+        "text": "Die Höhe bezogen auf den Luftdruck am Referenzflugplatz"
+      },
+      {
+        "letter": "C",
+        "text": "Die Höhe bezogen auf die höchste Erhebung im Umkreis von 10 km"
+      },
+      {
+        "letter": "D",
+        "text": "Die Höhe bezogen auf den mittleren Meeresspiegel"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 37,
+    "code": "COM-14",
+    "question": "Dringlichkeitsmeldungen sind Meldungen...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "über Luftfahrzeuge und deren Insassen, die von schwerer und unmittelbarer Gefahr bedroht sind und sofortiger Hilfe bedürfen."
+      },
+      {
+        "letter": "B",
+        "text": "über den Betrieb oder die Wartung von Einrichtungen, die für die Sicherheit oder Regelmäßigkeit des Flugbetriebs wichtig sind."
+      },
+      {
+        "letter": "C",
+        "text": "von Luftfahrzeugführern oder Luftfahrzeughaltern, die für im Flug befindliche Luftfahrzeuge von unmittelbarer Bedeutung sind."
+      },
+      {
+        "letter": "D",
+        "text": "die die Sicherheit eines Luftfahrzeugs, eines Wasserfahrzeugs, eines anderen Fahrzeugs oder einer Person betreffen."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 38,
+    "code": "COM-19",
+    "question": "Wie wird die Flughöhe 4.500 ft im Sprechfunkverkehr korrekt übermittelt?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vier Fünf Tausend"
+      },
+      {
+        "letter": "B",
+        "text": "Vier Tausend Fünf Null Null"
+      },
+      {
+        "letter": "C",
+        "text": "Vier Tausend Fünf Hundert"
+      },
+      {
+        "letter": "D",
+        "text": "Vier Fünf Null Null"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 39,
+    "code": "COM-21",
+    "question": "Wie wird die Frequenz 119,500 MHz im Sprechfunkverkehr korrekt übermittelt?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Eins Eins Neun Komma Fünf Null"
+      },
+      {
+        "letter": "B",
+        "text": "Eins Eins Neun Komma Fünf Null Null"
+      },
+      {
+        "letter": "C",
+        "text": "Eins Eins Neun Tausend Komma Fünf Null"
+      },
+      {
+        "letter": "D",
+        "text": "Eins Eins Neun Komma Fünf"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 40,
+    "code": "COM-28",
+    "question": "Welche Redewendung verwendet der Pilot, wenn die Verständlichkeit der Sendung überprüft werden soll?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hören Sie mich fünf"
+      },
+      {
+        "letter": "B",
+        "text": "Wie verstehen Sie mich"
+      },
+      {
+        "letter": "C",
+        "text": "Erbitte Verständigungsprüfung"
+      },
+      {
+        "letter": "D",
+        "text": "Wie ist die Verständigung"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 41,
+    "code": "COM-43",
+    "question": "Was bedeutet die Funktest-Verständlichkeit 3?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Die Übermittlung ist unverständlich"
+      },
+      {
+        "letter": "B",
+        "text": "Die Übermittlung ist sehr gut verständlich"
+      },
+      {
+        "letter": "C",
+        "text": "Die Übermittlung ist zeitweise verständlich"
+      },
+      {
+        "letter": "D",
+        "text": "Die Übermittlung ist schwer verständlich"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 42,
+    "code": "COM-47",
+    "question": "Wie muss die Anweisung \"DZF nach dem Abheben steigen Sie geradeaus auf 2.500 Fuß, machen Sie dann eine Rechtskurve Steuerkurs 220, Wind 090 Grad, 5 Knoten, Piste 12, Start frei\" bestätigt werden?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "DZF nach dem Abheben geradeaus auf 2.500 Fuß, dann Rechtskurve, Steuerkurs 220, Piste 12, Start frei"
+      },
+      {
+        "letter": "B",
+        "text": "DZF nach dem Abheben geradeaus auf 2.500 Fuß, dann Rechtskurve, Steuerkurs 220, 090 Grad, 5 Knoten, Start frei"
+      },
+      {
+        "letter": "C",
+        "text": "DZF nach dem Abheben geradeaus auf 2.500 Fuß, Wilco, Steuerkurs 220, 090 Grad, 5 Knoten, Start frei"
+      },
+      {
+        "letter": "D",
+        "text": "DZF nach dem Abheben geradeaus auf 2.500 Fuß, dann Rechtskurve, Steuerkurs 220, 090 Grad, 5 Knoten"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 43,
+    "code": "COM-50",
+    "question": "Wie muss die Information \"Sie fliegen in Luftraum Delta ein\" bestätigt werden?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Einflug"
+      },
+      {
+        "letter": "B",
+        "text": "Verstanden"
+      },
+      {
+        "letter": "C",
+        "text": "Wilco"
+      },
+      {
+        "letter": "D",
+        "text": "Luftraum Delta"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 44,
+    "code": "COM-59",
+    "question": "Mit welcher Redewendung beginnt eine Blindsendung?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kein Empfang"
+      },
+      {
+        "letter": "B",
+        "text": "Blind"
+      },
+      {
+        "letter": "C",
+        "text": "Bitte hören"
+      },
+      {
+        "letter": "D",
+        "text": "Blindsendung"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 45,
+    "code": "COM-60",
+    "question": "Auf welcher Frequenz soll eine Blindsendung übermittelt werden?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Auf der aktuellen Frequenz"
+      },
+      {
+        "letter": "B",
+        "text": "Auf der Radar-Frequenz des unteren Luftraums"
+      },
+      {
+        "letter": "C",
+        "text": "Auf einer Turm-Frequenz"
+      },
+      {
+        "letter": "D",
+        "text": "Auf der zuständigen FIS-Frequenz"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 46,
+    "code": "COM-66",
+    "question": "Dringlichkeitsmeldungen sind Meldungen...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "welche die Sicherheit des Boden- und Vorfeldpersonals betreffen und zudem eine unmittelbare Gefahr für landende Flugzeuge darstellen."
+      },
+      {
+        "letter": "B",
+        "text": "über dringend benötigte Ersatzteile, die zum Weiterflug zwingend benötigt werden und vorab bestellt werden müssen."
+      },
+      {
+        "letter": "C",
+        "text": "über Luftfahrzeuge und deren Insassen, die von schwerer und unmittelbarer Gefahr bedroht sind und sofortiger Hilfe bedürfen."
+      },
+      {
+        "letter": "D",
+        "text": "welche die Sicherheit eines Luftfahrzeugs, eines Wasserfahrzeugs, eines anderen Fahrzeugs oder einer Person betreffen."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 47,
+    "code": "COM-70",
+    "question": "Die Transpondereinstellung für Notfälle lautet...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "7000."
+      },
+      {
+        "letter": "B",
+        "text": "7600."
+      },
+      {
+        "letter": "C",
+        "text": "7700."
+      },
+      {
+        "letter": "D",
+        "text": "7500."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 48,
+    "code": "FPP-7",
+    "question": "Was ist der \"Schwerpunkt\" eines Luftfahrzeuges?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Der Punkt, an dem sich alle Massen eines Körpers vereinigt vorgestellt werden können"
+      },
+      {
+        "letter": "B",
+        "text": "Die Mitte zwischen der Bezugsebene (datum) und dem Neutralpunkt"
+      },
+      {
+        "letter": "C",
+        "text": "Der Punkt an einem beliebigen Körper mit der größten Einzelmasse"
+      },
+      {
+        "letter": "D",
+        "text": "Der Punkt an einem Körper, der dem Neutralpunkt entspricht"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 49,
+    "code": "FPP-12",
+    "question": "Der Hebelarm bezeichnet die horizontale Distanz zwischen...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "dem Schwerpunkt und der hinteren Schwerpunktgrenze."
+      },
+      {
+        "letter": "B",
+        "text": "vorderer Schwerpunktgrenze und hinterer Schwerpunktgrenze."
+      },
+      {
+        "letter": "C",
+        "text": "vorderer Schwerpunktgrenze und der Bezugsebene (datum)."
+      },
+      {
+        "letter": "D",
+        "text": "dem Schwerpunkt und der Bezugsebene (datum)."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 50,
+    "code": "FPP-17",
+    "question": "Der Sinkwinkel ist definiert als...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "der Winkel zwischen der Horizontalen und dem tatsächlichen Flugweg, ausgedrückt in Prozent [%]."
+      },
+      {
+        "letter": "B",
+        "text": "das Verhältnis zwischen dem Höhenunterschied und der in der gleichen Zeit zurückgelegten Strecke über einer Horizontalen, ausgedrückt in Prozent [%]."
+      },
+      {
+        "letter": "C",
+        "text": "das Verhältnis zwischen dem Höhenunterschied und der in der gleichen Zeit zurückgelegten Strecke über einer Horizontalen, ausgedrückt in Grad [°]."
+      },
+      {
+        "letter": "D",
+        "text": "der Winkel zwischen der Horizontalen und dem tatsächlichen Flugweg, ausgedrückt in Grad [°]."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 51,
+    "code": "FPP-23",
+    "question": "Wo kann während des Fluges per Funk ein Flugplan aufgegeben werden?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bei einem Flugplatzbetreiber"
+      },
+      {
+        "letter": "B",
+        "text": "Beim Such- und Rettungsdienst (SAR)"
+      },
+      {
+        "letter": "C",
+        "text": "Beim Flugberatungsdienst (AIS)"
+      },
+      {
+        "letter": "D",
+        "text": "Beim Fluginformationsdienst (FIS)"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 52,
+    "code": "FPP-26",
+    "question": "Womit ist nach Umrunden eines Wendepunktes insbesondere zu rechnen?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Mit verändertem Horizontbild in Kursrichtung aufgrund absinkender Untergrenzen."
+      },
+      {
+        "letter": "B",
+        "text": "Mit nachlassender Thermik aufgrund der fortschreitenden Uhrzeit."
+      },
+      {
+        "letter": "C",
+        "text": "Mit verändertem Wolkenbild in Kursrichtung aufgrund des scheinbar geänderten Sonnenstands."
+      },
+      {
+        "letter": "D",
+        "text": "Mit zunehmender Wolkenauflösung aufgrund der fortschreitenden Uhrzeit."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 53,
+    "code": "FPP-30",
+    "question": "Welche Distanz kann im Gleitflug mit einem Segelflugzeug mit Gleitzahl 30 aus einer Höhe von 1500 m zurückgelegt werden? (Wind und Thermik nicht zu berücksichtigen)",
+    "options": [
+      {
+        "letter": "A",
+        "text": "45 NM"
+      },
+      {
+        "letter": "B",
+        "text": "45 km"
+      },
+      {
+        "letter": "C",
+        "text": "30 km"
+      },
+      {
+        "letter": "D",
+        "text": "81 NM"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 54,
+    "code": "HPL-4",
+    "question": "Wie hoch ist der Gasanteil von Stickstoff in der Luft?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "78%"
+      },
+      {
+        "letter": "B",
+        "text": "0,1%"
+      },
+      {
+        "letter": "C",
+        "text": "1%"
+      },
+      {
+        "letter": "D",
+        "text": "21%"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 55,
+    "code": "HPL-9",
+    "question": "Welches ist KEIN Symptom von Hyperventilation (beschleunigte Atmung)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bewusstseinsstörung"
+      },
+      {
+        "letter": "B",
+        "text": "Kribbeln"
+      },
+      {
+        "letter": "C",
+        "text": "Zyanose"
+      },
+      {
+        "letter": "D",
+        "text": "Krämpfe"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 56,
+    "code": "HPL-12",
+    "question": "Ab welcher ungefähren Flughöhe reagiert der Körper im Normalfall auf den abnehmenden atmosphärischen Luftdruck?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "2.000 Fuß"
+      },
+      {
+        "letter": "B",
+        "text": "7.000 Fuß"
+      },
+      {
+        "letter": "C",
+        "text": "12.000 Fuß"
+      },
+      {
+        "letter": "D",
+        "text": "10.000 Fuß"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 57,
+    "code": "HPL-25",
+    "question": "In welcher Situation ist ein Druckausgleich zwischen dem Mittelohr und der Umgebung nicht möglich?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bei einem flachen und langsamen Steigflug"
+      },
+      {
+        "letter": "B",
+        "text": "Die Atmung erfolgt nur durch den Mund"
+      },
+      {
+        "letter": "C",
+        "text": "Die Eustachische Röhre ist blockiert"
+      },
+      {
+        "letter": "D",
+        "text": "Bei vollständig geschlossenen Fenstern"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 58,
+    "code": "HPL-31",
+    "question": "Was kann einen \"Grey-out\" verursachen?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Positive g-Kräfte"
+      },
+      {
+        "letter": "B",
+        "text": "Hyperventilation"
+      },
+      {
+        "letter": "C",
+        "text": "Hypoxie"
+      },
+      {
+        "letter": "D",
+        "text": "Müdigkeit"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 59,
+    "code": "HPL-41",
+    "question": "Welche vier Möglichkeiten bestehen, um angemessen mit einem Risiko umzugehen?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vermeiden, Ignorieren, Beschönigen, Verringern."
+      },
+      {
+        "letter": "B",
+        "text": "Vermeiden, Verringern, Übertragen, Akzeptieren."
+      },
+      {
+        "letter": "C",
+        "text": "Verdrängen, Vermeiden, Beschönigen, Übertragen."
+      },
+      {
+        "letter": "D",
+        "text": "Ignorieren, Akzeptieren, Übertragen, Verdrängen."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 60,
+    "code": "HPL-43",
+    "question": "Welche gefährlichen Einstellungen treten häufig zusammen auf?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Impulsivität und Sorgfältigkeit"
+      },
+      {
+        "letter": "B",
+        "text": "Unverwundbarkeit und Selbstaufgabe"
+      },
+      {
+        "letter": "C",
+        "text": "Macho und Unverwundbarkeit"
+      },
+      {
+        "letter": "D",
+        "text": "Selbstaufgabe und Macho"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 61,
+    "code": "HPL-52",
+    "question": "Während des Fluges ist ein Problem zu lösen, wie gehen Sie vor?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zum Lösen eines Problems ist im Flug keine Zeit"
+      },
+      {
+        "letter": "B",
+        "text": "Einen anderen Piloten um Hilfe anfunken, sonst weiterfliegen"
+      },
+      {
+        "letter": "C",
+        "text": "Primär das Flugzeug fliegen und stabil halten, danach das Problem lösen und dabei das Fliegen des Flugzeugs nicht vernachlässigen"
+      },
+      {
+        "letter": "D",
+        "text": "Problem sofort lösen, sonst im Flughandbuch nachsehen"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 62,
+    "code": "MET-2",
+    "question": "Welche Art von Nebel entsteht, wenn feuchte, fast gesättigte Luft durch den vorherrschenden Wind gegen eine Hügelkette gedrückt und dabei zum Aufstieg gezwungen wird?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Advektions-Nebel"
+      },
+      {
+        "letter": "B",
+        "text": "Orographischer Nebel"
+      },
+      {
+        "letter": "C",
+        "text": "Strahlungs-Nebel"
+      },
+      {
+        "letter": "D",
+        "text": "Verdunstungs-Nebel"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 63,
+    "code": "MET-6",
+    "question": "Was ist im Wetterbericht unter dem Begriff \"Überentwicklung\" zu verstehen?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nachmittäglicher Übergang von Blauthermik zu Wolkenthermik"
+      },
+      {
+        "letter": "B",
+        "text": "Vertikalentwicklung von Cumulus-Wolken zu Regenschauern"
+      },
+      {
+        "letter": "C",
+        "text": "Entwicklung eines kräftigen Tiefs zu einem Sturmtief"
+      },
+      {
+        "letter": "D",
+        "text": "Breitlaufen von Cumulus-Wolken unter einer Inversionsschicht"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 64,
+    "code": "MET-12",
+    "question": "In welcher Schicht der Atmosphäre findet der überwiegende Teil des Wettergeschehens statt?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Troposphäre"
+      },
+      {
+        "letter": "B",
+        "text": "Tropopause"
+      },
+      {
+        "letter": "C",
+        "text": "Stratosphäre"
+      },
+      {
+        "letter": "D",
+        "text": "Thermosphäre"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 65,
+    "code": "MET-13",
+    "question": "Welche Masse besitzt ein \"Würfel Luft\" mit der Kantenlänge 1 Meter unter ISA- Bedingungen in MSL?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "1,225 kg"
+      },
+      {
+        "letter": "B",
+        "text": "0,1225 kg"
+      },
+      {
+        "letter": "C",
+        "text": "0,01225 kg"
+      },
+      {
+        "letter": "D",
+        "text": "12,25 kg"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 66,
+    "code": "MET-15",
+    "question": "Die mittlere Höhe der Tropopause nach ISA (ICAO Standard Atmosphäre) beträgt...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "11.000 ft"
+      },
+      {
+        "letter": "B",
+        "text": "11.000 m"
+      },
+      {
+        "letter": "C",
+        "text": "18.000 ft"
+      },
+      {
+        "letter": "D",
+        "text": "36.000 m"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 67,
+    "code": "MET-21",
+    "question": "Welcher der genannten Prozesse kann zu einer Inversion in etwa 5.000 ft (1.500 m) Höhe führen?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Großräumig absinkende Luft im Bereich eines Hochdruckgebiets"
+      },
+      {
+        "letter": "B",
+        "text": "Heranführen von kalter Luft in der oberen Troposphäre"
+      },
+      {
+        "letter": "C",
+        "text": "Intensive Sonneneinstrahlung während eines warmen Sommertages"
+      },
+      {
+        "letter": "D",
+        "text": "Abkühlung des Erdbodens durch nächtliche Ausstrahlung"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 68,
+    "code": "MET-24",
+    "question": "Welche Prozesse führen zu abnehmender Luftdichte?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Temperatur fällt, Druck fällt"
+      },
+      {
+        "letter": "B",
+        "text": "Temperatur fällt, Druck steigt"
+      },
+      {
+        "letter": "C",
+        "text": "Temperatur steigt, Druck fällt"
+      },
+      {
+        "letter": "D",
+        "text": "Temperatur steigt, Druck steigt"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 69,
+    "code": "MET-25",
+    "question": "Der Luftdruck in MSL beträgt gemäß ISA...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "113,25 hPa."
+      },
+      {
+        "letter": "B",
+        "text": "15 hPa."
+      },
+      {
+        "letter": "C",
+        "text": "1.123 hPa."
+      },
+      {
+        "letter": "D",
+        "text": "1.013,25 hPa."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 70,
+    "code": "MET-26",
+    "question": "Die Tropopausenhöhe beträgt gemäß ISA...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "11.000 ft."
+      },
+      {
+        "letter": "B",
+        "text": "5.500 ft."
+      },
+      {
+        "letter": "C",
+        "text": "48.000 ft."
+      },
+      {
+        "letter": "D",
+        "text": "36.000 ft."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 71,
+    "code": "MET-33",
+    "question": "Oberhalb der Reibungsschicht weht der Wind bei großräumigen Druckunterschieden...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "senkrecht zu den Isobaren."
+      },
+      {
+        "letter": "B",
+        "text": "senkrecht zu den Isohypsen."
+      },
+      {
+        "letter": "C",
+        "text": "etwa 30 ° schräg zu den Isobaren in Richtung Tief."
+      },
+      {
+        "letter": "D",
+        "text": "parallel zu den Isobaren."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 72,
+    "code": "MET-34",
+    "question": "Welche Oberflächenbeschaffenheit sorgt für die stärkste Reduktion der Windgeschwindigkeit in der bodennahen Reibungsschicht?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Flache Wüstengegenden"
+      },
+      {
+        "letter": "B",
+        "text": "Gebirgiges und bewachsenes Land"
+      },
+      {
+        "letter": "C",
+        "text": "Ozeanische Bereiche"
+      },
+      {
+        "letter": "D",
+        "text": "Stark bewachsenes, flaches Land"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 73,
+    "code": "MET-37",
+    "question": "Welche Auswirkungen hat eine Konvergenz in bodennahen Schichten auf das Wettergeschehen?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Absinkende Luftbewegung und Wolkenbildung"
+      },
+      {
+        "letter": "B",
+        "text": "Aufsteigende Luftbewegung mit Wolkenbildung"
+      },
+      {
+        "letter": "C",
+        "text": "Aufsteigende Luftbewegung mit Wolkenauflösung"
+      },
+      {
+        "letter": "D",
+        "text": "Absinkende Luftbewegung und Wolkenauflösung"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 74,
+    "code": "MET-40",
+    "question": "Wo in der globalen Zirkulation der Atmosphäre treffen polare Kaltluft und subtropische Warmluft aufeinander?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Im subtropischen Hochdruckgürtel"
+      },
+      {
+        "letter": "B",
+        "text": "Am Äquator"
+      },
+      {
+        "letter": "C",
+        "text": "An der Polarfront"
+      },
+      {
+        "letter": "D",
+        "text": "An den geografischen Polen"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 75,
+    "code": "MET-45",
+    "question": "Welche Antwort gibt alle Zustände an, in welchen Wasser in der Atmosphäre vorkommen kann?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Flüssig"
+      },
+      {
+        "letter": "B",
+        "text": "Flüssig, fest und gasförmig"
+      },
+      {
+        "letter": "C",
+        "text": "Flüssig und fest"
+      },
+      {
+        "letter": "D",
+        "text": "Gasförmig und flüssig"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 76,
+    "code": "MET-46",
+    "question": "Wie verhalten sich Taupunkt und relative Feuchtigkeit bei abnehmender Temperatur?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Taupunkt bleibt konstant, relative Feuchtigkeit steigt"
+      },
+      {
+        "letter": "B",
+        "text": "Taupunkt steigt, relative Feuchtigkeit sinkt"
+      },
+      {
+        "letter": "C",
+        "text": "Taupunkt bleibt konstant, relative Feuchtigkeit sinkt"
+      },
+      {
+        "letter": "D",
+        "text": "Taupunkt sinkt, relative Feuchtigkeit steigt"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 77,
+    "code": "MET-48",
+    "question": "Der \"Spread\" ist definiert als...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "die Differenz zwischen Taupunkt und Kondensationspunkt."
+      },
+      {
+        "letter": "B",
+        "text": "die Differenz zwischen Temperatur und Taupunkt."
+      },
+      {
+        "letter": "C",
+        "text": "die maximal mögliche Menge Wasserdampf, die Luft aufnehmen kann."
+      },
+      {
+        "letter": "D",
+        "text": "das Verhältnis aus tatsächlicher und maximal möglicher Luftfeuchtigkeit."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 78,
+    "code": "MET-51",
+    "question": "Welche Beziehung besteht zwischen feucht- und trockenadiabatischem Temperaturgradienten?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Der feuchtadiabatische Gradient ist geringer als der trockenadiabatische Gradient"
+      },
+      {
+        "letter": "B",
+        "text": "Der feuchtadiabatische Gradient ist größer als der trockenadiabatische Gradient"
+      },
+      {
+        "letter": "C",
+        "text": "Der feuchtadiabatische Gradient ist proportional zum trockenadiabatischen Gradienten"
+      },
+      {
+        "letter": "D",
+        "text": "Der feuchtadiabatische Gradient ist gleich dem trockenadiabatischen Gradienten"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 79,
+    "code": "MET-54",
+    "question": "Welche Wetterbedingungen sind bei feuchtlabiler Schichtung zu erwarten?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wolkenloser Himmel mit Sonnenschein und schwachem Wind"
+      },
+      {
+        "letter": "B",
+        "text": "Hochreichende Quellbewölkung, möglicherweise Schauer und Gewitter"
+      },
+      {
+        "letter": "C",
+        "text": "Flache Quellbewölkung mit mittelhohen Untergrenzen"
+      },
+      {
+        "letter": "D",
+        "text": "Hochreichende Schichtbewölkung mit Dauerregen oder Schnee"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 80,
+    "code": "MET-64",
+    "question": "Bei welchem Vorgang entsteht Advektionsnebel?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kalte und feuchte Luft vermischt sich mit warmer und feuchter Luft"
+      },
+      {
+        "letter": "B",
+        "text": "Kalte und feuchte Luft wird über einen warmen Untergrund geführt"
+      },
+      {
+        "letter": "C",
+        "text": "Bei nächtlicher Ausstrahlung unter sternenklarem Himmel"
+      },
+      {
+        "letter": "D",
+        "text": "Warme und feuchte Luft wird über einen kalten Untergrund geführt"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 81,
+    "code": "MET-65",
+    "question": "Unter welchen Bedingungen entsteht orografischer Nebel (hill fog)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bei nächtlicher Ausstrahlung unter sternenklarem Himmel"
+      },
+      {
+        "letter": "B",
+        "text": "Kalte und feuchte Luft vermischt sich mit warmer und feuchter Luft"
+      },
+      {
+        "letter": "C",
+        "text": "Durch Verdunstung über warmem, feuchtem Untergrund in sehr kalter Umgebungsluft"
+      },
+      {
+        "letter": "D",
+        "text": "Feuchte Luft wird gezwungen, an einem Hügel oder Gebirge aufzusteigen"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 82,
+    "code": "MET-68",
+    "question": "Aus welcher der genannten Wolkengattungen fällt anhaltender Regen (Landregen)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nimbostratus"
+      },
+      {
+        "letter": "B",
+        "text": "Cirrostratus"
+      },
+      {
+        "letter": "C",
+        "text": "Cumulonimbus"
+      },
+      {
+        "letter": "D",
+        "text": "Altocumulus"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 83,
+    "code": "MET-84",
+    "question": "Wo sind ausgedehnte Hochdruckgebiete ganzjährig zu finden?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Im Bereich kräftiger Hebungsvorgänge"
+      },
+      {
+        "letter": "B",
+        "text": "Über ausgedehnten Ozeangebieten bei etwa 30°N/S"
+      },
+      {
+        "letter": "C",
+        "text": "Im Bereich der mittleren Breiten entlang der Polarfront"
+      },
+      {
+        "letter": "D",
+        "text": "Im äquatornahen tropischen Bereich"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 84,
+    "code": "MET-91",
+    "question": "Welches Wetter ist in Mitteleuropa bei Hochdruckwetterlage im Sommer zu erwarten?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Linienartig angeordnete Schauer und Gewitter"
+      },
+      {
+        "letter": "B",
+        "text": "Wetterberuhigung und Wolkenauflösung, wenige hohe Cu"
+      },
+      {
+        "letter": "C",
+        "text": "Windstille und ausgedehnte Hochnebelfelder"
+      },
+      {
+        "letter": "D",
+        "text": "Wechselhaftes Wetter beim Durchgang von Fronten"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 85,
+    "code": "MET-92",
+    "question": "Welche Druckverhältnisse sind in Hochdruckgebieten in Mitteleuropa im Sommer typischerweise zu beobachten?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Großer Isobarenabstand mit schwachen Winden, Ausbildung lokaler Windsysteme"
+      },
+      {
+        "letter": "B",
+        "text": "Großer Isobarenabstand mit stark vorherrschender westlicher Windrichtung"
+      },
+      {
+        "letter": "C",
+        "text": "Geringer Isobarenabstand mit stark vorherrschender nördlicher Windrichtung"
+      },
+      {
+        "letter": "D",
+        "text": "Geringer Isobarenabstand mit schwachen Winden, Ausbildung lokaler Windsysteme"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 86,
+    "code": "MET-93",
+    "question": "Welches Wetter ist in Mitteleuropa bei Hochdruckwetterlage im Winter zu erwarten?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wechselhaftes Wetter beim Durchgang von Fronten"
+      },
+      {
+        "letter": "B",
+        "text": "Windstille und ausgedehnte Hochnebelfelder"
+      },
+      {
+        "letter": "C",
+        "text": "Linienartig angeordnete Schauer und Gewitter"
+      },
+      {
+        "letter": "D",
+        "text": "Wetterberuhigung und Wolkenauflösung, wenige hohe Cu"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 87,
+    "code": "MET-103",
+    "question": "In welcher Entwicklungsstufe eines Gewitters ist mit sehr starken Auf- und Abwinden zu rechnen?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Auflösestadium"
+      },
+      {
+        "letter": "B",
+        "text": "Reifestadium"
+      },
+      {
+        "letter": "C",
+        "text": "Aufbaustadium"
+      },
+      {
+        "letter": "D",
+        "text": "Gewitterstadium"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 88,
+    "code": "MET-104",
+    "question": "In welchem Stadium eines Gewitters sind überwiegend Aufwinde anzutreffen?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Auflösestadium"
+      },
+      {
+        "letter": "B",
+        "text": "Reifestadium"
+      },
+      {
+        "letter": "C",
+        "text": "Aufbaustadium"
+      },
+      {
+        "letter": "D",
+        "text": "Aufwindstadium"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 89,
+    "code": "MET-108",
+    "question": "Welche Gefahr besteht beim Anflug auf einen im Tal gelegenen Flugplatz, wenn über dem Tal eine starke Windströmung rechtwinklig zu den Berghängen besteht?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Starke Abwinde im Niederschlagsbereich unter den Gewitterwolken"
+      },
+      {
+        "letter": "B",
+        "text": "Bildung von mäßigem bis starkem Klareisansatz auf allen Flugzeugflächen"
+      },
+      {
+        "letter": "C",
+        "text": "Eingeschränkte Sicht, Verlust des Sichtkontakts zum Platz im Endanflug"
+      },
+      {
+        "letter": "D",
+        "text": "Windscherung im Anflug, Änderung der Windrichtung um bis zu 180°"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 90,
+    "code": "MET-112",
+    "question": "Welche Informationen können aus Satelliten-Bildern entnommen werden?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Temperatur und Taupunkt mit zunehmender Höhe"
+      },
+      {
+        "letter": "B",
+        "text": "Turbulenz- und Vereisungszonen in verschiedenen Schichten"
+      },
+      {
+        "letter": "C",
+        "text": "Überlick über Bewölkungsfelder und Frontenverlauf"
+      },
+      {
+        "letter": "D",
+        "text": "Flugsicht, Vertikalsicht und Erdsicht"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 91,
+    "code": "MET-113",
+    "question": "In welcher Darstellung sind Niederschlagsbereiche zu erkennen?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Satellitenbild"
+      },
+      {
+        "letter": "B",
+        "text": "GAFOR"
+      },
+      {
+        "letter": "C",
+        "text": "Windkarte"
+      },
+      {
+        "letter": "D",
+        "text": "Radarbild"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 92,
+    "code": "MET-117",
+    "question": "Durch welche Meldungsgruppe wird ein mäßiger Regenschauer in einem METAR benannt?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "SHRA"
+      },
+      {
+        "letter": "B",
+        "text": "+RA"
+      },
+      {
+        "letter": "C",
+        "text": "TS"
+      },
+      {
+        "letter": "D",
+        "text": "+TSRA"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 93,
+    "code": "MET-118",
+    "question": "Welche Information ist in der ATIS enthalten, nicht aber in einem METAR?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Angaben zum durchschnittlichen Wind, ggf. Maximalgeschwindigkeiten in Böen"
+      },
+      {
+        "letter": "B",
+        "text": "Informationen zum Wettergeschehen, wie z.B. Niederschlagsarten"
+      },
+      {
+        "letter": "C",
+        "text": "Anfluginformationen, z.B. Bodensichten und Wolkenuntergrenzen"
+      },
+      {
+        "letter": "D",
+        "text": "Operationelle Informationen, z.B. aktive Landebahn und Transition Level"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 94,
+    "code": "MET-125",
+    "question": "Wann ist mit Rückenseitenwetter zu rechnen?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nach Durchzug einer Kaltfront"
+      },
+      {
+        "letter": "B",
+        "text": "Vor Durchzug einer Okklusion"
+      },
+      {
+        "letter": "C",
+        "text": "Auf der Leeseite bei Föhnwetterlage"
+      },
+      {
+        "letter": "D",
+        "text": "Nach Durchzug einer Warmfront"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 95,
+    "code": "MET-128",
+    "question": "Was trifft für die Wetterlage zu, wenn im bayrischen Voralpenland Föhn herrscht?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kalter, feuchter Fallwind auf der Leeseite der Alpen, flache Druckverteilung"
+      },
+      {
+        "letter": "B",
+        "text": "Staubewölkung an der Alpensüdseite, Rotoren an der Leeseite, warmer und trockener Wind"
+      },
+      {
+        "letter": "C",
+        "text": "Staubewölkung an der Alpennordseite, Rotoren an der Luvseite, warmer und trockener Wind"
+      },
+      {
+        "letter": "D",
+        "text": "Hochdruckgebiet über der Biskaya und Tiefdruckgebiet über Osteuropa"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 96,
+    "code": "NAV-1",
+    "question": "Die (gedachte) Erdachse verläuft durch den...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "geografischen Nordpol und den geografischen Südpol."
+      },
+      {
+        "letter": "B",
+        "text": "magnetischen Nordpol und den geografischen Südpol."
+      },
+      {
+        "letter": "C",
+        "text": "magnetischen Nordpol und den magnetischen Südpol."
+      },
+      {
+        "letter": "D",
+        "text": "geografischen Nordpol und den magnetischen Südpol."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 97,
+    "code": "NAV-2",
+    "question": "Welche Aussage ist in Bezug auf die Erdachse korrekt?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Die Erdachse schneidet den geografischen Südpol sowie den geografischen Nordpol und steht senkrecht auf der Äquatorebene"
+      },
+      {
+        "letter": "B",
+        "text": "Die Erdachse schneidet den magnetischen Südpol sowie den magnetischen Nordpol und hat einen Winkel von 66,5° zur Äquatorebene"
+      },
+      {
+        "letter": "C",
+        "text": "Die Erdachse schneidet den magnetischen Südpol sowie den magnetischen Nordpol und steht senkrecht auf der Äquatorebene"
+      },
+      {
+        "letter": "D",
+        "text": "Die Erdachse schneidet den geografischen Südpol sowie den geografischen Nordpol und hat einen Winkel von 23,5° zur Äquatorebene"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 98,
+    "code": "NAV-4",
+    "question": "Welche Aussage trifft auf eine Kursgleiche (Loxodrome) zu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Eine Kursgleiche schneidet alle Meridiane unter dem gleichen Winkel."
+      },
+      {
+        "letter": "B",
+        "text": "Eine Kursgleiche ist ein Großkreis, der den Äquator in einem 45°-Winkel schneidet."
+      },
+      {
+        "letter": "C",
+        "text": "Die kürzeste Verbindung zwischen zwei Punkten auf der Erdkugel verläuft entlang einer Kursgleichen."
+      },
+      {
+        "letter": "D",
+        "text": "Der vollständige Umlauf einer Kursgleiche hat immer den Erdmittelpunkt im Zentrum."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 99,
+    "code": "NAV-6",
+    "question": "Der Umfang der Erde am Äquator beträgt ungefähr...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "40.000 NM."
+      },
+      {
+        "letter": "B",
+        "text": "10.800 km."
+      },
+      {
+        "letter": "C",
+        "text": "12.800 km."
+      },
+      {
+        "letter": "D",
+        "text": "21.600 NM."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 100,
+    "code": "NAV-11",
+    "question": "Ein Punkt auf der Erdoberfläche liegt bei 47°50'27\" nördlicher Breite. Welcher Punkt liegt genau 240 NM nördlich davon?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "43°50'27\" N"
+      },
+      {
+        "letter": "B",
+        "text": "49°50'27\" N"
+      },
+      {
+        "letter": "C",
+        "text": "53°50'27\" N"
+      },
+      {
+        "letter": "D",
+        "text": "51°50'27\" N"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 101,
+    "code": "NAV-20",
+    "question": "Mitteleuropäische Zeit (MEZ) ist festgelegt als UTC+1. Welche Zeit in UTC entspricht somit 1700 MEZ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "1700 UTC."
+      },
+      {
+        "letter": "B",
+        "text": "1600 UTC."
+      },
+      {
+        "letter": "C",
+        "text": "1500 UTC."
+      },
+      {
+        "letter": "D",
+        "text": "1800 UTC."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 102,
+    "code": "NAV-26",
+    "question": "Wie wird der Winkel zwischen dem magnetischen Kurs (MC) und dem rechtweisenden Kurs (TC) bezeichnet?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Variation"
+      },
+      {
+        "letter": "B",
+        "text": "WCA"
+      },
+      {
+        "letter": "C",
+        "text": "Deviation"
+      },
+      {
+        "letter": "D",
+        "text": "Inklination"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 103,
+    "code": "NAV-29",
+    "question": "Gegeben sind: TC: 183°; WCA: +011°; MH: 198°; CH: 200°. Welche Werte haben TH und VAR?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "TH: 194°. VAR: 004°W."
+      },
+      {
+        "letter": "B",
+        "text": "TH: 172°. VAR: 004°W."
+      },
+      {
+        "letter": "C",
+        "text": "TH: 172°. VAR: 004°E."
+      },
+      {
+        "letter": "D",
+        "text": "TH: 194°. VAR: 004°E."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 104,
+    "code": "NAV-30",
+    "question": "Gegeben sind: TC: 183°; WCA: +011°; MH: 198°; CH: 200°. Welche Werte haben TH und DEV?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "TH: 172°. DEV: -002°."
+      },
+      {
+        "letter": "B",
+        "text": "TH: 194°. DEV: -002°."
+      },
+      {
+        "letter": "C",
+        "text": "TH: 172°. DEV: +002°."
+      },
+      {
+        "letter": "D",
+        "text": "TH: 194°. DEV: +002°."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 105,
+    "code": "NAV-33",
+    "question": "Wie wird der Winkel zwischen Kompass Nord (CN) und magnetisch Nord (MN) bezeichnet?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Deviation"
+      },
+      {
+        "letter": "B",
+        "text": "Variation"
+      },
+      {
+        "letter": "C",
+        "text": "Inklination"
+      },
+      {
+        "letter": "D",
+        "text": "WCA"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 106,
+    "code": "NAV-43",
+    "question": "Wie werden Kursgleichen und Großkreise auf einer Mercator-Karte dargestellt?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kursgleichen: als gerade Linien. Großkreise: als gekrümmte Linien."
+      },
+      {
+        "letter": "B",
+        "text": "Kursgleichen: als gekrümmte Linien. Großkreise: als gerade Linien."
+      },
+      {
+        "letter": "C",
+        "text": "Kursgleichen: als gekrümmte Linien. Großkreise: als gekrümmte Linien."
+      },
+      {
+        "letter": "D",
+        "text": "Kursgleichen: als gerade Linien. Großkreise: als gerade Linien."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 107,
+    "code": "NAV-44",
+    "question": "Welche Eigenschaften besitzt eine Lambert-Karte?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Großkreise werden als gerade Linien dargestellt, die Karte ist flächentreu"
+      },
+      {
+        "letter": "B",
+        "text": "Die Karte ist winkeltreu und überall genau längen- und flächentreu"
+      },
+      {
+        "letter": "C",
+        "text": "Die Karte ist winkeltreu und annähernd maßstabstreu"
+      },
+      {
+        "letter": "D",
+        "text": "Kursgleichen werden als gerade Linien dargestellt, die Karte ist winkeltreu"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 108,
+    "code": "NAV-45",
+    "question": "Auf einer aeronautischen Navigationskarte werden zwei 220 NM voneinander entfernte Flugplätze in einem Abstand von 40,7 cm dargestellt. Wie groß ist der Kartenmaßstab?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "1: 2.000.000"
+      },
+      {
+        "letter": "B",
+        "text": "1: 250.000"
+      },
+      {
+        "letter": "C",
+        "text": "1 : 500.000"
+      },
+      {
+        "letter": "D",
+        "text": "1: 1.000.000"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 109,
+    "code": "NAV-52",
+    "question": "Ein Luftfahrzeug legt 100 km in 56 Minuten zurück. Wie groß ist die Geschwindigkeit über Grund?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "198 kt."
+      },
+      {
+        "letter": "B",
+        "text": "58 km/h."
+      },
+      {
+        "letter": "C",
+        "text": "93 kt."
+      },
+      {
+        "letter": "D",
+        "text": "107 km/h."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 110,
+    "code": "NAV-56",
+    "question": "Der rechtweisende Kurs (TC) von Uelzen (EDVU) (52°59′N, 10°28′E) nach Neustadt (EDAN) (53°22′N, 011°37'E) beträgt...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "235°."
+      },
+      {
+        "letter": "B",
+        "text": "061°."
+      },
+      {
+        "letter": "C",
+        "text": "241°."
+      },
+      {
+        "letter": "D",
+        "text": "055°."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 111,
+    "code": "NAV-65",
+    "question": "Ein Luftfahrzeug folgt einem rechtweisenden Kurs (TC) von 040° bei einer konstanten Wahren Eigengeschwindigkeit (TAS) von 180 kt. Der Windvektor beträgt 350°/30 kt. Die Geschwindigkeit über Grund (GS) beträgt...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "155 kt."
+      },
+      {
+        "letter": "B",
+        "text": "172 kt."
+      },
+      {
+        "letter": "C",
+        "text": "159 kt."
+      },
+      {
+        "letter": "D",
+        "text": "168 kt."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 112,
+    "code": "NAV-66",
+    "question": "Ein Luftfahrzeug folgt einem rechtweisenden Kurs (TC) von 040° bei einer konstanten Wahren Eigengeschwindigkeit (TAS) von 180 kt. Der Windvektor beträgt 350°/30 kt. Der Windvorhaltewinkel (WCA) beträgt...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "+ 11°"
+      },
+      {
+        "letter": "B",
+        "text": "- 7°"
+      },
+      {
+        "letter": "C",
+        "text": "+ 5°"
+      },
+      {
+        "letter": "D",
+        "text": "- 9°"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 113,
+    "code": "NAV-68",
+    "question": "Folgende Werte sind gegeben: Rechtweisender Kurs (TC): 270°. TAS: 100 kt. Wind: 090°/25 kt. Distanz: 100 NM. Die Flugzeit beträgt...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "37 Min."
+      },
+      {
+        "letter": "B",
+        "text": "84 Min."
+      },
+      {
+        "letter": "C",
+        "text": "48 Min."
+      },
+      {
+        "letter": "D",
+        "text": "62 Min."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 114,
+    "code": "NAV-73",
+    "question": "Welche vereinfachte Annahme ist die Grundlage der \"1 zu 60 Regel\"?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "1 NM seitlicher Versatz auf 60 NM Flugstrecke entspricht einem Driftwinkel von 1°."
+      },
+      {
+        "letter": "B",
+        "text": "10 NM seitlicher Versatz auf 60 NM Flugstrecke entsprechen einem Driftwinkel von 1°."
+      },
+      {
+        "letter": "C",
+        "text": "60 NM seitlicher Versatz auf 1 NM Flugstrecke entsprechen einem Driftwinkel von 1°."
+      },
+      {
+        "letter": "D",
+        "text": "6 NM seitlicher Versatz auf 10 NM Flugstrecke entsprechen einem Driftwinkel von 1°."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 115,
+    "code": "OPR-3",
+    "question": "Eine Windscherung ist...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "eine Änderung der mittleren Windgeschwindigkeit um mehr als 15 kt."
+      },
+      {
+        "letter": "B",
+        "text": "eine vertikale oder horizontale Änderung von Windgeschwindigkeit und Windrichtung."
+      },
+      {
+        "letter": "C",
+        "text": "ein meteorologisches Fallwind-Phänomen an der Nordseite der Alpen."
+      },
+      {
+        "letter": "D",
+        "text": "die langsame Zunahme der Windgeschwindigkeit in Höhen oberhalb von 13.000 ft."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 116,
+    "code": "OPR-7",
+    "question": "Während des Anfluges gerät das Luftfahrzeug in eine Windscherung (windshear) mit zunehmendem Gegenwind. Wie ändern sich der Anflugpfad und die angezeigte Geschwindigkeit (IAS), wenn der Pilot keine Korrekturen vornimmt?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Anflugpfad wird höher. IAS wird abnehmen."
+      },
+      {
+        "letter": "B",
+        "text": "Anflugpfad wird tiefer. IAS wird zunehmen."
+      },
+      {
+        "letter": "C",
+        "text": "Anflugpfad wird höher. IAS wird zunehmen."
+      },
+      {
+        "letter": "D",
+        "text": "Anflugpfad wird tiefer. IAS wird abnehmen."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 117,
+    "code": "OPR-14",
+    "question": "Bei einer Sicherheitslandung handelt es sich immer um eine...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "durch die Umstände erzwungene Landung."
+      },
+      {
+        "letter": "B",
+        "text": "Landung ohne Triebwerkshilfe."
+      },
+      {
+        "letter": "C",
+        "text": "Landung ohne Landeklappen."
+      },
+      {
+        "letter": "D",
+        "text": "zur Aufrechterhaltung der Sicherheit durchgeführte Landung."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 118,
+    "code": "OPR-20",
+    "question": "Welches Verhalten vermeidet Gefahren, wenn sich ein Segelflugzeug beim Überlandflug bereits nahe an einer Platzrundenhöhe befindet?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Aufrechterhalten des Funkkontakts bis zum Stillstand nach der Außenlandung"
+      },
+      {
+        "letter": "B",
+        "text": "Auf der windabgewandten Seite eines Landefeldes nach Thermik suchen"
+      },
+      {
+        "letter": "C",
+        "text": "Versuchen, am Horizont sichtbare Cumuluswolken und damit Thermik zu erreichen"
+      },
+      {
+        "letter": "D",
+        "text": "Ungeachtet des Flugvorhabens rechtzeitig zur Außenlandung entscheiden"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 119,
+    "code": "OPR-23",
+    "question": "Beim Flugzeugschlepp mittels Schwerpunktkupplung neigt ein Segelflugzeug...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "zu einem besonders stabilen Flugverhalten."
+      },
+      {
+        "letter": "B",
+        "text": "zu verstärkter Drehung um die Längsachse."
+      },
+      {
+        "letter": "C",
+        "text": "zu verstärkter Drehung zur Kupplungsseite."
+      },
+      {
+        "letter": "D",
+        "text": "zu verstärktem Aufbäumen der Flugzeugnase."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 120,
+    "code": "OPR-25",
+    "question": "Welche Entscheidungen sind bei einem Seilriss während des Windenstarts in der richtigen Reihenfolge zu treffen?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Eine 180° Kehrkurve fliegen und entgegen der Startrichtung landen, vor dem Aufsetzen Seil ausklinken"
+      },
+      {
+        "letter": "B",
+        "text": "Nachdrücken, ausklinken, je nach Höhe, Gelände und Wind geradeaus landen oder eine verkürzte Platzrunde fliegen"
+      },
+      {
+        "letter": "C",
+        "text": "Höhenruder gezogen halten, Mindestfahrt stabilisieren und auf verbleibender Startstrecke landen"
+      },
+      {
+        "letter": "D",
+        "text": "Ausklinken und anschließend nachdrücken; bei Höhen bis 150 m AGL mit erhöhter Fluggeschwindigkeit geradeaus landen"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 121,
+    "code": "OPR-28",
+    "question": "Während eines Flugzeugschlepps reißt das Schleppseil. Am Segelflugzeug bleibt ein längeres Stück Seil hängen. Welche Maßnahme ist durch den Piloten zu ergreifen?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tiefen Überflug über dem Startplatz durchführen und beim Flugleiter Seillänge erfragen, ggf. ausklinken"
+      },
+      {
+        "letter": "B",
+        "text": "Landeanflug normal durchführen, bei Bodenberührung des Seils sofort ausklinken"
+      },
+      {
+        "letter": "C",
+        "text": "Sofort ausklinken und den Flug mit geöffneter Ausklinkvorrichtung fortsetzen"
+      },
+      {
+        "letter": "D",
+        "text": "Seil bei ausreichender Flughöhe möglichst über unbebautem Gelände oder über dem Startplatz abwerfen"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 122,
+    "code": "OPR-31",
+    "question": "Während eines Windenstarts lässt nach dem Übergang in die volle Steigfluglage der Seilzug abrupt nach. Welche Maßnahmen sind durch den Piloten zu ergreifen?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Höhenruder ziehen, um Seilspannung zu erhöhen"
+      },
+      {
+        "letter": "B",
+        "text": "Windenfahrer durch wechselweise Querruderausschläge informieren"
+      },
+      {
+        "letter": "C",
+        "text": "Leicht nachdrücken, erneuten Seilzug abwarten"
+      },
+      {
+        "letter": "D",
+        "text": "Sofort kräftig nachdrücken und ausklinken"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 123,
+    "code": "OPR-33",
+    "question": "Welche Aufgaben besitzt die Sollbruchstelle am Windenseil?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sie verhindert eine Überbeanspruchung des Segelflugzeuges"
+      },
+      {
+        "letter": "B",
+        "text": "Sie dient zum automatischen Seilabwurf nach Beendigung des Windenstarts"
+      },
+      {
+        "letter": "C",
+        "text": "Sie sichert die Startwinde vor einem Überflug im Schleppvorgang"
+      },
+      {
+        "letter": "D",
+        "text": "Sie dient zur Begrenzung der Steiggeschwindigkeit im Windenstart"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 124,
+    "code": "OPR-34",
+    "question": "In der letzten Phase des Windenstarts lässt der Pilot im Höhenruder nicht nach. Es kommt bei hoher Flächenbelastung zum selbständigen Lösen des Startwindenseiles. Welche Auswirkungen kann dies haben?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nur durch diesen deutlichen Ruck wird sichergestellt, dass das Seil abgeworfen wurde"
+      },
+      {
+        "letter": "B",
+        "text": "Eine extreme Belastung der Struktur des Segelflugzeuges"
+      },
+      {
+        "letter": "C",
+        "text": "Hierdurch wird eine wesentlich größere Schlepphöhe erreicht"
+      },
+      {
+        "letter": "D",
+        "text": "Unzureichendes Vorhalten im Windenstart kann so ausgeglichen werden"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 125,
+    "code": "OPR-35",
+    "question": "Ein Pilot führt eine Außenlandung in bergigem Gelände durch. Zur Verfügung steht nur eine Landefläche mit relativ großer Neigung. Wie ist der Landeanflug durchzuführen?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Es ist mit erhöhter Geschwindigkeit hangaufwärts anzufliegen, zu landen und entsprechend dem Geländeanstieg zügig abzufangen"
+      },
+      {
+        "letter": "B",
+        "text": "Es ist mit Mindestfahrt hangaufwärts anzufliegen, zu landen und bei Erreichen des Geländes vorsichtig abzufangen"
+      },
+      {
+        "letter": "C",
+        "text": "Entsprechend der vorherrschenden Windrichtung ist parallel zum Hang mit Gegenwind anzufliegen und zu landen"
+      },
+      {
+        "letter": "D",
+        "text": "Es ist mit erhöhter Geschwindigkeit hangabwärts anzufliegen, zu landen und entsprechend dem Gefälle nachzudrücken"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 126,
+    "code": "OPR-41",
+    "question": "Womit ist bei einem Eisansatz an den Tragflächen zu rechnen?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Mit einer geringeren Überziehgeschwindigkeit"
+      },
+      {
+        "letter": "B",
+        "text": "Mit geringerem Reibungswiderstand"
+      },
+      {
+        "letter": "C",
+        "text": "Mit einer höheren Überziehgeschwindigkeit"
+      },
+      {
+        "letter": "D",
+        "text": "Mit verbesserten Langsamflugeigenschaften"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 127,
+    "code": "OPR-50",
+    "question": "Bei einem Flug in Platznähe in ca. 250 m AGL geraten Sie in starkes Sinken und streben eine Sicherheitslandung an. Mit welcher Geschwindigkeit sollte auf den Platz zugesteuert werden?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Mit der Geschwindigkeit des besten Gleitens plus Zuschlag für Sinken und Wind"
+      },
+      {
+        "letter": "B",
+        "text": "Mit der Geschwindigkeit des geringsten Sinkens"
+      },
+      {
+        "letter": "C",
+        "text": "Mit der höchstzulässigen Manövergeschwindigkeit VA"
+      },
+      {
+        "letter": "D",
+        "text": "Mit der Geschwindigkeit des besten Gleitens"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 128,
+    "code": "OPR-53",
+    "question": "Beim Thermik-Kreisen fliegt ein anderes Segelflugzeug dicht hinten auf. Welche Maßnahme sollte ergriffen werden, um eine Kollision zu vermeiden?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sie verringern die Fahrt, um das andere Flugzeug überholen zu lassen."
+      },
+      {
+        "letter": "B",
+        "text": "Sie verringern die Querlage, um einen größeren Kurvenradius zu erreichen."
+      },
+      {
+        "letter": "C",
+        "text": "Sie erhöhen die Fahrt, um eine gegenüberliegende Position zu erreichen."
+      },
+      {
+        "letter": "D",
+        "text": "Sie erhöhen die Querlage, um von dem anderen Flugzeug besser gesehen zu werden."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 129,
+    "code": "OPR-60",
+    "question": "Worauf ist vor jeder Änderung der Flugrichtung unbedingt zu achten?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ob sich dort Thermikwolken befinden"
+      },
+      {
+        "letter": "B",
+        "text": "Dass lose Gegenstände im Cockpit verzurrt sind"
+      },
+      {
+        "letter": "C",
+        "text": "Dass die Kurve sauber geflogen wird"
+      },
+      {
+        "letter": "D",
+        "text": "Ob der Luftraum in die gewünschte Richtung frei ist"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 130,
+    "code": "PFA-2",
+    "question": "Welcher Effekt tritt beim Ausfahren von Wölbklappen auf?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Höchstzulässige Geschwindigkeit wird erhöht"
+      },
+      {
+        "letter": "B",
+        "text": "Die Mindestgeschwindigkeit verringert sich"
+      },
+      {
+        "letter": "C",
+        "text": "Die Mindestgeschwindigkeit wird erhöht"
+      },
+      {
+        "letter": "D",
+        "text": "Schwerpunkt verlagert sich nach vorn"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 131,
+    "code": "PFA-4",
+    "question": "Durch welche Baugruppe wird die Stabilisierung um die Querachse während des Reisefluges erreicht?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Querruder."
+      },
+      {
+        "letter": "B",
+        "text": "Landeklappen."
+      },
+      {
+        "letter": "C",
+        "text": "Seitenleitwerk."
+      },
+      {
+        "letter": "D",
+        "text": "Höhenleitwerk."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 132,
+    "code": "PFA-10",
+    "question": "Alle am Profil wirksamen Luftkräfte lassen sich als in einem einzigen Punkt angreifend betrachten. Dieser Punkt heißt...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Schwerpunkt."
+      },
+      {
+        "letter": "B",
+        "text": "Auftriebspunkt."
+      },
+      {
+        "letter": "C",
+        "text": "Umschlagpunkt."
+      },
+      {
+        "letter": "D",
+        "text": "Druckpunkt."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 133,
+    "code": "PFA-15",
+    "question": "Wie wird das Verhältnis aus Spannweite und mittlerer Profiltiefe bezeichnet?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zuspitzung"
+      },
+      {
+        "letter": "B",
+        "text": "Flügelstreckung"
+      },
+      {
+        "letter": "C",
+        "text": "Pfeilung"
+      },
+      {
+        "letter": "D",
+        "text": "Trapezform"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 134,
+    "code": "PFA-17",
+    "question": "Welcher Punkt am Flügelprofil wird durch Nummer 4 dargestellt?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ablösepunkt"
+      },
+      {
+        "letter": "B",
+        "text": "Umschlagpunkt"
+      },
+      {
+        "letter": "C",
+        "text": "Druckpunkt"
+      },
+      {
+        "letter": "D",
+        "text": "Staupunkt"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 135,
+    "code": "PFA-19",
+    "question": "Welcher Vorgang findet am Staupunkt statt?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Die laminare Grenzschicht schlägt in eine turbulente Grenzschicht um"
+      },
+      {
+        "letter": "B",
+        "text": "Die Grenzschicht beginnt sich auf der Profiloberseite abzulösen"
+      },
+      {
+        "letter": "C",
+        "text": "Die anströmende Luft wird in einen Teilstrom oberhalb und unterhalb der Profilform geteilt"
+      },
+      {
+        "letter": "D",
+        "text": "Dort lassen sich alle Luftkräfte als gemeinsam angreifend betrachten"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 136,
+    "code": "PFA-23",
+    "question": "Welche Aussage über die Umströmung einer Tragfläche ist korrekt, wenn der Anstellwinkel zunimmt?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Der Staupunkt bewegt sich nach unten"
+      },
+      {
+        "letter": "B",
+        "text": "Der Druckpunkt bewegt sich nach unten"
+      },
+      {
+        "letter": "C",
+        "text": "Der Druckpunkt bewegt sich nach oben"
+      },
+      {
+        "letter": "D",
+        "text": "Der Staupunkt bewegt sich nach oben"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 137,
+    "code": "PFA-24",
+    "question": "Welche Aussage zur Umströmung einer Tragfläche ist korrekt, wenn der Anstellwinkel abnimmt?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Der Druckpunkt bewegt sich nach vorne"
+      },
+      {
+        "letter": "B",
+        "text": "Der Staupunkt bleibt konstant"
+      },
+      {
+        "letter": "C",
+        "text": "Der Staupunkt bewegt sich nach unten"
+      },
+      {
+        "letter": "D",
+        "text": "Der Druckpunkt bewegt sich nach hinten"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 138,
+    "code": "PFA-29",
+    "question": "Wie ändert sich der parasitäre Widerstand bei Verdopplung der Strömungsgeschwindigkeit, wenn alle anderen Parameter unverändert bleiben?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Er verdoppelt sich"
+      },
+      {
+        "letter": "B",
+        "text": "Er halbiert sich"
+      },
+      {
+        "letter": "C",
+        "text": "Er viertelt sich"
+      },
+      {
+        "letter": "D",
+        "text": "Er vervierfacht sich"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 139,
+    "code": "PFA-34",
+    "question": "Wo entsteht der Interferenzwiderstand an einem Luftfahrzeug?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "An den Tragflächenenden"
+      },
+      {
+        "letter": "B",
+        "text": "Am Fahrwerk"
+      },
+      {
+        "letter": "C",
+        "text": "An den Tragflügelwurzeln"
+      },
+      {
+        "letter": "D",
+        "text": "An den Querrudern"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 140,
+    "code": "PFA-41",
+    "question": "Wie ändern sich Auftrieb und Widerstand bei Annäherung an den überzogenen Flugzustand?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Abnahme von Auftrieb und Widerstand"
+      },
+      {
+        "letter": "B",
+        "text": "Zunahme von Auftrieb und Widerstand"
+      },
+      {
+        "letter": "C",
+        "text": "Zunahme von Auftrieb und Abnahme von Widerstand"
+      },
+      {
+        "letter": "D",
+        "text": "Abnahme von Auftrieb und Zunahme von Widerstand"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 141,
+    "code": "PFA-47",
+    "question": "Die laminare Grenzschicht am Tragflügel befindet sich zwischen...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Umschlagpunkt und Druckpunkt."
+      },
+      {
+        "letter": "B",
+        "text": "Staupunkt und Druckpunkt."
+      },
+      {
+        "letter": "C",
+        "text": "Umschlagpunkt und Ablösepunkt."
+      },
+      {
+        "letter": "D",
+        "text": "Staupunkt und Umschlagpunkt."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 142,
+    "code": "PFA-53",
+    "question": "Als \"Längsstabilität\" wird die Stabilität um welche Achse bezeichnet?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hochachse"
+      },
+      {
+        "letter": "B",
+        "text": "Längsachse"
+      },
+      {
+        "letter": "C",
+        "text": "Querachse"
+      },
+      {
+        "letter": "D",
+        "text": "Propellerachse"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 143,
+    "code": "PFA-55",
+    "question": "Welches konstruktive Merkmal sorgt für eine Erhöhung der Richtungsstabilität eines Flächenflugzeuges?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "V-Form der Tragflächen"
+      },
+      {
+        "letter": "B",
+        "text": "Differenzieller Querruderausschlag"
+      },
+      {
+        "letter": "C",
+        "text": "Großes Höhenleitwerk"
+      },
+      {
+        "letter": "D",
+        "text": "Großes Seitenleitwerk"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 144,
+    "code": "PFA-62",
+    "question": "Was ist hinsichtlich der Lage des Schwerpunktes zu beachten?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Der Schwerpunkt kann durch Trimmen des Querruders in eine zulässige Position bewegt werden"
+      },
+      {
+        "letter": "B",
+        "text": "Bei der Beladung ist unbedingt auf eine zulässige Schwerpunktlage zu achten"
+      },
+      {
+        "letter": "C",
+        "text": "Der Schwerpunkt kann durch Trimmen des Höhenruders in eine zulässige Position bewegt werden"
+      },
+      {
+        "letter": "D",
+        "text": "Die Lage des Schwerpunktes kann erst während des Fluges bestimmt werden"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 145,
+    "code": "PFA-63",
+    "question": "Das Seitenruder bewegt ein Luftfahrzeug um die...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hochachse."
+      },
+      {
+        "letter": "B",
+        "text": "Längsachse."
+      },
+      {
+        "letter": "C",
+        "text": "Seitenachse."
+      },
+      {
+        "letter": "D",
+        "text": "Querachse."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 146,
+    "code": "PFA-66",
+    "question": "Wie wird das negative Wendemoment kompensiert?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Durch die Querrudertrimmung"
+      },
+      {
+        "letter": "B",
+        "text": "Durch differenzierten Querruderausschlag"
+      },
+      {
+        "letter": "C",
+        "text": "Durch eine Tragflächen-V-Form"
+      },
+      {
+        "letter": "D",
+        "text": "Durch einen Vollausschlag des Querruders"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 147,
+    "code": "PFA-72",
+    "question": "Das Trimmruder am Höhenruder ist nach oben ausgeschlagen. In welcher Stellung befindet sich die zugehörige Anzeige?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Neutrale Stellung (0-Stellung)"
+      },
+      {
+        "letter": "B",
+        "text": "Hecklastig getrimmt"
+      },
+      {
+        "letter": "C",
+        "text": "Seitlich getrimmt"
+      },
+      {
+        "letter": "D",
+        "text": "Kopflastig getrimmt"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 148,
+    "code": "PFA-74",
+    "question": "Durch welchen der aufgeführten Faktoren erhöht sich das wirkende Lastvielfache im Reiseflug?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Eine höhere Flugzeugmasse"
+      },
+      {
+        "letter": "B",
+        "text": "Eine aufwärtsgerichtete Böe"
+      },
+      {
+        "letter": "C",
+        "text": "Einen vorderen Schwerpunkt"
+      },
+      {
+        "letter": "D",
+        "text": "Eine geringere Luftdichte"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 149,
+    "code": "PFA-76",
+    "question": "Der in der Polare bezeichnete Punkt 5 kennzeichnet welchen Flugzustand?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Langsamflug"
+      },
+      {
+        "letter": "B",
+        "text": "Strömungsabriss (stall)"
+      },
+      {
+        "letter": "C",
+        "text": "Bestes Gleiten"
+      },
+      {
+        "letter": "D",
+        "text": "Rückenflug"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 150,
+    "code": "PFA-77",
+    "question": "Wie verhalten sich das Lastvielfache (n) und die Strömungsabrissgeschwindigkeit (VS) im koordinierten Kurvenflug?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "n ist größer als 1 und VS ist kleiner als im Horizontalflug"
+      },
+      {
+        "letter": "B",
+        "text": "n ist größer als 1 und VS ist größer als im Horizontalflug"
+      },
+      {
+        "letter": "C",
+        "text": "n ist kleiner als 1 und VS größer als im Horizontalflug"
+      },
+      {
+        "letter": "D",
+        "text": "n ist kleiner als 1 und VS ist kleiner als im Horizontalflug"
+      }
+    ],
+    "correctAnswer": "B"
+  }
+]
