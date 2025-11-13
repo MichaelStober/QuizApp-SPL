@@ -6,13 +6,18 @@ import QuizCard from './components/QuizCard';
 import ScoreScreen from './components/ScoreScreen';
 import QuestionList from './components/QuestionList';
 import EditQuestionForm from './components/EditQuestionForm';
+import CategorySelectionScreen from './components/CategorySelectionScreen';
+import CategoryQuestionViewer from './components/CategoryQuestionViewer';
 
-type QuizState = 'start' | 'active' | 'finished';
+
+type QuizState = 'landing' | 'active' | 'finished' | 'category-select' | 'category-view';
 const LOCAL_STORAGE_KEY = 'germanAviationQuizQuestions';
 
 const App: React.FC = () => {
-  const [quizState, setQuizState] = useState<QuizState>('start');
+  const [quizState, setQuizState] = useState<QuizState>('landing');
   const [allQuestions, setAllQuestions] = useState<Question[]>([]);
+  const [categories, setCategories] = useState<string[]>([]);
+  const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
   const [questions, setQuestions] = useState<Question[]>([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [score, setScore] = useState(0);
@@ -37,6 +42,10 @@ const App: React.FC = () => {
         }
         const sortedQuestions = data.sort((a, b) => a.id - b.id);
         setAllQuestions(sortedQuestions);
+        
+        const uniqueCategories = [...new Set(sortedQuestions.map(q => q.code.split('-')[0]))].sort();
+        setCategories(uniqueCategories);
+
       } catch (err) {
         console.error(err);
         setError('Failed to load quiz questions. Please try again later.');
@@ -58,6 +67,26 @@ const App: React.FC = () => {
     setQuizState('active');
     setEditingQuestionId(null);
   }, [allQuestions]);
+
+  const handleViewByCategory = () => {
+    setQuizState('category-select');
+  };
+
+  const handleSelectCategory = (category: string) => {
+    setSelectedCategory(category);
+    setQuizState('category-view');
+  };
+
+  const handleBackToLanding = () => {
+    setQuizState('landing');
+    setSelectedCategory(null);
+  };
+  
+  const handleBackToCategories = () => {
+      setSelectedCategory(null);
+      setQuizState('category-select');
+  }
+
 
   const handleAnswer = (answerLetter: string) => {
     if (isAnswered) return;
@@ -139,19 +168,47 @@ const App: React.FC = () => {
     }
 
     switch (quizState) {
-      case 'start':
+      case 'landing':
         return (
-          <div className="text-center bg-slate-800 p-8 rounded-xl shadow-2xl">
+          <div className="text-center bg-slate-800/70 backdrop-blur-sm p-8 rounded-xl shadow-2xl border border-slate-700">
             <h1 className="text-4xl font-bold mb-4 text-cyan-400">German Aviation Quiz</h1>
             <p className="text-lg text-slate-300 mb-8">Test your knowledge with {allQuestions.length} questions.</p>
-            <button
-              onClick={startQuiz}
-              disabled={allQuestions.length === 0}
-              className="bg-cyan-500 hover:bg-cyan-600 text-white font-bold py-3 px-8 rounded-lg text-xl transition-all duration-300 transform hover:scale-105 disabled:bg-slate-600 disabled:cursor-not-allowed"
-            >
-              Start Quiz
-            </button>
+            <div className="flex flex-col sm:flex-row justify-center gap-4">
+              <button
+                onClick={startQuiz}
+                disabled={allQuestions.length === 0}
+                className="bg-cyan-500 hover:bg-cyan-600 text-white font-bold py-3 px-8 rounded-lg text-xl transition-all duration-300 transform hover:scale-105 disabled:bg-slate-600 disabled:cursor-not-allowed"
+              >
+                Start Quiz
+              </button>
+              <button
+                onClick={handleViewByCategory}
+                disabled={allQuestions.length === 0}
+                className="bg-slate-600 hover:bg-slate-500 text-white font-bold py-3 px-8 rounded-lg text-xl transition-all duration-300 transform hover:scale-105 disabled:bg-slate-700 disabled:cursor-not-allowed"
+              >
+                View by Category
+              </button>
+            </div>
           </div>
+        );
+      case 'category-select':
+        return (
+          <CategorySelectionScreen 
+            categories={categories}
+            onSelectCategory={handleSelectCategory}
+            onBack={handleBackToLanding}
+          />
+        );
+      
+      case 'category-view':
+        if (!selectedCategory) return null;
+        const filteredQuestions = allQuestions.filter(q => q.code.startsWith(selectedCategory));
+        return (
+          <CategoryQuestionViewer
+            category={selectedCategory}
+            questions={filteredQuestions}
+            onBack={handleBackToCategories}
+          />
         );
       case 'active':
         if (questions.length === 0) return null;
@@ -205,8 +262,16 @@ const App: React.FC = () => {
   };
 
   return (
-    <div className="min-h-screen w-full flex items-center justify-center p-4 bg-gradient-to-br from-slate-900 to-gray-900">
-      <main className={`w-full mx-auto ${quizState === 'active' ? 'max-w-7xl' : 'max-w-2xl'}`}>
+    <div 
+      className={`min-h-screen w-full flex items-center justify-center p-4 ${quizState !== 'landing' ? 'bg-gradient-to-br from-slate-900 to-gray-900' : ''}`}
+      style={quizState === 'landing' ? {
+        backgroundImage: `url('https://storage.googleapis.com/aistudio-hosting/history/1719234855776/01HZB3W37N17B3N0089064B98E/01HZB3W47854619R41QYEQM65A.png')`,
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        backgroundRepeat: 'no-repeat',
+      } : {}}
+    >
+      <main className={`w-full mx-auto ${quizState === 'active' || quizState === 'category-view' ? 'max-w-7xl' : 'max-w-2xl'}`}>
         {renderContent()}
       </main>
     </div>
